@@ -16,7 +16,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohammed-sabeel-299057247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sabeel-299057247/" height="30" width="40" /></a>
-<a href="https://instagram.com/sab_eel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sab_eel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sab__eel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sab_eel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

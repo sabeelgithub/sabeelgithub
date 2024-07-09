@@ -9,7 +9,7 @@
 
 - 👨‍💻 My personal website [https://sabeelgithub.github.io/](https://sabeelgithub.github.io/)
 
-- 💬 Ask me about **Python ,Django ,React**
+- 💬 Ask me about **Python ,Django ,FastApi**
 
 - 📫 How to reach me **mohammedsabeeltc786@gmail.com**
 

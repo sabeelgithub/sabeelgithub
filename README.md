@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeelgithub&label=Profile%20views&color=0e75b6&style=flat" alt="sabeelgithub" /> </p>
 
-- currently specialized in **Python Django and React**
+- currently specialized in **Python,Django and FastApi**
 
 - 👨‍💻 My personal website [https://sabeelgithub.github.io/](https://sabeelgithub.github.io/)
 
